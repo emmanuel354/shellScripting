@@ -11,7 +11,8 @@ function quit(){
 
 #thus if we echo this after calling it, it won't work because we hae exited the shell script
 #example
-hello $name
+hello 
+#lets call the func hello again
 quit
 #we called hello and exited using quit func
 echo "this text won't apper"
