@@ -1,0 +1,16 @@
+this is a list of yellow fruits:
+Papaya.
+Guava.
+Persimmon.
+Pineapple.
+Starfruit.
+Pummelo.
+Banana.
+Lemon.
+
+This is a list of green fruits:
+avocado
+grapes
+melon
+pear
+lime
